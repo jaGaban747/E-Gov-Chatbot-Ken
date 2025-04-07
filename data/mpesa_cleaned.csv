@@ -1,0 +1,659 @@
+date,time,transaction_type,amount,direction,balance,narration
+2024-10-09,16:38,Salary Payment,3117.3,Out,11882.7,Salary Payment executed
+2024-10-09,9:34,Paybill Payment - Supplier,2577.35,Out,9305.35,Paybill Payment - Supplier executed
+2024-10-09,10:20,Customer Payment,12537.29,In,21842.64,Customer Payment executed
+2024-10-09,8:46,Loan Repayment,12538.96,Out,9303.68,Loan Repayment executed
+2024-10-09,18:58,Customer Payment,11545.49,In,20849.17,Customer Payment executed
+2024-10-10,17:12,Buy Goods,5421.95,Out,15427.22,Buy Goods executed
+2024-10-10,11:42,Utility Bill Payment,4776.95,Out,10650.27,Utility Bill Payment executed
+2024-10-10,17:34,Paybill Payment - Supplier,5373.64,Out,5276.63,Paybill Payment - Supplier executed
+2024-10-10,18:03,Till Withdrawal,2735.45,Out,2541.18,Till Withdrawal executed
+2024-10-10,12:59,Bank Withdrawal,636.34,Out,1904.84,Bank Withdrawal executed
+2024-10-11,9:18,Salary Payment,937.05,Out,967.79,Salary Payment executed
+2024-10-11,9:27,Bank Deposit,21294.57,In,22262.36,Bank Deposit executed
+2024-10-11,13:23,Paybill Payment - Supplier,1544.72,Out,20717.64,Paybill Payment - Supplier executed
+2024-10-11,18:37,Loan Repayment,3081.35,Out,17636.29,Loan Repayment executed
+2024-10-11,8:20,Bank Deposit,5696.8,In,23333.09,Bank Deposit executed
+2024-10-12,18:29,Paybill Payment - Supplier,5600.89,Out,17732.2,Paybill Payment - Supplier executed
+2024-10-12,18:45,Bank Deposit,1846.27,In,19578.47,Bank Deposit executed
+2024-10-13,8:26,Float Top-Up,15672.12,In,35250.59,Float Top-Up executed
+2024-10-13,10:58,Utility Bill Payment,18575.41,Out,16675.18,Utility Bill Payment executed
+2024-10-14,9:15,Till Withdrawal,10918.33,Out,5756.85,Till Withdrawal executed
+2024-10-14,11:12,Till Withdrawal,2878.77,Out,2878.08,Till Withdrawal executed
+2024-10-14,16:58,Utility Bill Payment,1275.63,Out,1602.45,Utility Bill Payment executed
+2024-10-15,18:37,Buy Goods,710.37,Out,892.08,Buy Goods executed
+2024-10-15,18:19,Salary Payment,879.51,Out,12.57,Salary Payment executed
+2024-10-15,14:55,Customer Payment,23269.49,In,23282.06,Customer Payment executed
+2024-10-15,14:26,Salary Payment,8021.09,Out,15260.97,Salary Payment executed
+2024-10-15,12:24,Buy Goods,5841.26,Out,9419.71,Buy Goods executed
+2024-10-16,13:30,Till Withdrawal,5369.62,Out,4050.09,Till Withdrawal executed
+2024-10-16,11:50,Float Top-Up,5593.18,In,9643.27,Float Top-Up executed
+2024-10-16,8:02,Customer Payment,13014.67,In,22657.94,Customer Payment executed
+2024-10-17,17:30,Float Top-Up,10378.46,In,33036.4,Float Top-Up executed
+2024-10-17,9:09,Bank Withdrawal,19039.42,Out,13996.98,Bank Withdrawal executed
+2024-10-17,10:06,Float Top-Up,7078.93,In,21075.91,Float Top-Up executed
+2024-10-17,9:22,Bank Deposit,3222.41,In,24298.32,Bank Deposit executed
+2024-10-18,9:41,Utility Bill Payment,3974.91,Out,20323.41,Utility Bill Payment executed
+2024-10-18,9:01,Utility Bill Payment,3089.71,Out,17233.7,Utility Bill Payment executed
+2024-10-18,9:48,Loan Repayment,13575.76,Out,3657.94,Loan Repayment executed
+2024-10-19,14:53,Buy Goods,2410.35,Out,1247.59,Buy Goods executed
+2024-10-19,17:02,Loan Repayment,632.95,Out,614.64,Loan Repayment executed
+2024-10-19,11:17,Bank Deposit,12806.16,In,13420.8,Bank Deposit executed
+2024-10-19,17:58,Float Top-Up,16624.47,In,30045.27,Float Top-Up executed
+2024-10-20,13:31,Paybill Payment - Supplier,13547.04,Out,16498.23,Paybill Payment - Supplier executed
+2024-10-20,16:29,Paybill Payment - Supplier,4224.39,Out,12273.84,Paybill Payment - Supplier executed
+2024-10-20,17:31,Loan Repayment,10568.28,Out,1705.56,Loan Repayment executed
+2024-10-20,17:04,Paybill Payment - Supplier,1442.93,Out,262.63,Paybill Payment - Supplier executed
+2024-10-21,10:40,Bank Deposit,5357.35,In,5619.98,Bank Deposit executed
+2024-10-21,15:52,Loan Repayment,2925.95,Out,2694.03,Loan Repayment executed
+2024-10-21,8:36,Utility Bill Payment,1388.15,Out,1305.88,Utility Bill Payment executed
+2024-10-21,13:58,Till Withdrawal,680.02,Out,625.86,Till Withdrawal executed
+2024-10-21,9:54,Float Top-Up,21286.53,In,21912.39,Float Top-Up executed
+2024-10-22,17:23,Paybill Payment - Supplier,2299.89,Out,19612.5,Paybill Payment - Supplier executed
+2024-10-22,9:46,Loan Repayment,3767.08,Out,15845.42,Loan Repayment executed
+2024-10-22,18:27,Customer Payment,13650.68,In,29496.1,Customer Payment executed
+2024-10-22,11:08,Loan Repayment,17630.78,Out,11865.32,Loan Repayment executed
+2024-10-23,17:24,Float Top-Up,13534.6,In,25399.92,Float Top-Up executed
+2024-10-23,16:04,Loan Repayment,6386.15,Out,19013.77,Loan Repayment executed
+2024-10-23,11:42,Salary Payment,16866.19,Out,2147.58,Salary Payment executed
+2024-10-23,10:20,Bank Deposit,5118.49,In,7266.07,Bank Deposit executed
+2024-10-23,17:21,Utility Bill Payment,6557.42,Out,708.65,Utility Bill Payment executed
+2024-10-24,18:42,Customer Payment,10114.9,In,10823.55,Customer Payment executed
+2024-10-24,11:29,Till Withdrawal,8021.48,Out,2802.07,Till Withdrawal executed
+2024-10-24,13:21,Salary Payment,1666.15,Out,1135.92,Salary Payment executed
+2024-10-24,17:30,Buy Goods,952.68,Out,183.24,Buy Goods executed
+2024-10-24,8:21,Till Withdrawal,312.73,Out,0.0,Till Withdrawal executed
+2024-10-25,17:14,Float Top-Up,14328.36,In,14328.36,Float Top-Up executed
+2024-10-25,9:34,Utility Bill Payment,4875.35,Out,9453.01,Utility Bill Payment executed
+2024-10-25,14:31,Till Withdrawal,2141.63,Out,7311.38,Till Withdrawal executed
+2024-10-25,12:50,Salary Payment,6624.48,Out,686.9,Salary Payment executed
+2024-10-26,11:48,Paybill Payment - Supplier,595.41,Out,91.49,Paybill Payment - Supplier executed
+2024-10-26,18:52,Paybill Payment - Supplier,246.92,Out,0.0,Paybill Payment - Supplier executed
+2024-10-27,18:55,Utility Bill Payment,288.35,Out,0.0,Utility Bill Payment executed
+2024-10-27,11:51,Till Withdrawal,88.91,Out,0.0,Till Withdrawal executed
+2024-10-27,12:35,Salary Payment,291.53,Out,0.0,Salary Payment executed
+2024-10-27,17:38,Bank Withdrawal,366.11,Out,0.0,Bank Withdrawal executed
+2024-10-27,15:31,Customer Payment,5092.59,In,5092.59,Customer Payment executed
+2024-10-28,12:03,Paybill Payment - Supplier,4228.49,Out,864.1,Paybill Payment - Supplier executed
+2024-10-28,12:17,Bank Deposit,6782.12,In,7646.22,Bank Deposit executed
+2024-10-29,16:21,Bank Deposit,11268.53,In,18914.75,Bank Deposit executed
+2024-10-29,13:14,Buy Goods,3477.91,Out,15436.84,Buy Goods executed
+2024-10-29,18:49,Buy Goods,3452.45,Out,11984.39,Buy Goods executed
+2024-10-29,17:29,Till Withdrawal,10511.96,Out,1472.43,Till Withdrawal executed
+2024-10-29,9:42,Salary Payment,998.2,Out,474.23,Salary Payment executed
+2024-10-30,8:17,Till Withdrawal,486.78,Out,0.0,Till Withdrawal executed
+2024-10-30,10:38,Buy Goods,49.52,Out,0.0,Buy Goods executed
+2024-10-30,10:10,Bank Withdrawal,31.87,Out,0.0,Bank Withdrawal executed
+2024-10-30,9:59,Till Withdrawal,358.91,Out,0.0,Till Withdrawal executed
+2024-10-31,17:15,Bank Withdrawal,281.51,Out,0.0,Bank Withdrawal executed
+2024-10-31,12:53,Salary Payment,122.21,Out,0.0,Salary Payment executed
+2024-10-31,14:06,Float Top-Up,9601.13,In,9601.13,Float Top-Up executed
+2024-10-31,14:13,Bank Withdrawal,5920.48,Out,3680.65,Bank Withdrawal executed
+2024-11-01,17:49,Paybill Payment - Supplier,1004.02,Out,2676.63,Paybill Payment - Supplier executed
+2024-11-01,15:54,Buy Goods,518.05,Out,2158.58,Buy Goods executed
+2024-11-01,12:32,Utility Bill Payment,1842.84,Out,315.74,Utility Bill Payment executed
+2024-11-01,8:43,Buy Goods,363.65,Out,0.0,Buy Goods executed
+2024-11-01,9:53,Paybill Payment - Supplier,319.57,Out,0.0,Paybill Payment - Supplier executed
+2024-11-02,8:21,Till Withdrawal,357.29,Out,0.0,Till Withdrawal executed
+2024-11-02,12:54,Customer Payment,4182.97,In,4182.97,Customer Payment executed
+2024-11-03,12:23,Customer Payment,11220.19,In,15403.16,Customer Payment executed
+2024-11-03,18:53,Loan Repayment,10424.61,Out,4978.55,Loan Repayment executed
+2024-11-03,17:47,Bank Deposit,4278.39,In,9256.94,Bank Deposit executed
+2024-11-03,13:57,Customer Payment,24449.87,In,33706.81,Customer Payment executed
+2024-11-03,16:10,Salary Payment,2460.36,Out,31246.45,Salary Payment executed
+2024-11-04,15:46,Salary Payment,12098.06,Out,19148.39,Salary Payment executed
+2024-11-04,9:27,Paybill Payment - Supplier,4908.47,Out,14239.92,Paybill Payment - Supplier executed
+2024-11-05,14:06,Float Top-Up,9834.7,In,24074.62,Float Top-Up executed
+2024-11-05,11:01,Salary Payment,7718.82,Out,16355.8,Salary Payment executed
+2024-11-06,13:22,Loan Repayment,13311.86,Out,3043.94,Loan Repayment executed
+2024-11-06,14:28,Till Withdrawal,1645.68,Out,1398.26,Till Withdrawal executed
+2024-11-06,12:52,Float Top-Up,3888.51,In,5286.77,Float Top-Up executed
+2024-11-07,16:20,Customer Payment,11590.2,In,16876.97,Customer Payment executed
+2024-11-07,14:49,Loan Repayment,1344.87,Out,15532.1,Loan Repayment executed
+2024-11-07,16:04,Customer Payment,20729.76,In,36261.86,Customer Payment executed
+2024-11-07,15:23,Bank Deposit,24635.32,In,60897.18,Bank Deposit executed
+2024-11-07,12:09,Utility Bill Payment,4360.49,Out,56536.69,Utility Bill Payment executed
+2024-11-08,13:44,Bank Deposit,14996.06,In,71532.75,Bank Deposit executed
+2024-11-08,9:49,Salary Payment,11615.37,Out,59917.38,Salary Payment executed
+2024-11-08,12:00,Bank Withdrawal,6692.66,Out,53224.72,Bank Withdrawal executed
+2024-11-08,8:19,Bank Deposit,23696.54,In,76921.26,Bank Deposit executed
+2024-11-08,18:41,Customer Payment,13261.73,In,90182.99,Customer Payment executed
+2024-11-09,16:15,Bank Withdrawal,10010.1,Out,80172.89,Bank Withdrawal executed
+2024-11-09,13:58,Bank Deposit,1100.54,In,81273.43,Bank Deposit executed
+2024-11-10,17:48,Utility Bill Payment,2186.46,Out,79086.97,Utility Bill Payment executed
+2024-11-10,16:52,Bank Deposit,3480.34,In,82567.31,Bank Deposit executed
+2024-11-10,18:27,Paybill Payment - Supplier,3924.21,Out,78643.1,Paybill Payment - Supplier executed
+2024-11-10,15:53,Paybill Payment - Supplier,3799.76,Out,74843.34,Paybill Payment - Supplier executed
+2024-11-10,13:45,Buy Goods,3056.22,Out,71787.12,Buy Goods executed
+2024-11-11,16:03,Salary Payment,8694.21,Out,63092.91,Salary Payment executed
+2024-11-11,18:29,Bank Withdrawal,16386.67,Out,46706.24,Bank Withdrawal executed
+2024-11-12,18:54,Bank Deposit,19844.54,In,66550.78,Bank Deposit executed
+2024-11-12,13:15,Paybill Payment - Supplier,17031.01,Out,49519.77,Paybill Payment - Supplier executed
+2024-11-13,14:31,Bank Withdrawal,8115.98,Out,41403.79,Bank Withdrawal executed
+2024-11-13,8:24,Till Withdrawal,1574.87,Out,39828.92,Till Withdrawal executed
+2024-11-13,8:05,Float Top-Up,5471.8,In,45300.72,Float Top-Up executed
+2024-11-14,16:08,Till Withdrawal,4600.61,Out,40700.11,Till Withdrawal executed
+2024-11-14,13:52,Till Withdrawal,17093.26,Out,23606.85,Till Withdrawal executed
+2024-11-14,9:48,Till Withdrawal,4344.05,Out,19262.8,Till Withdrawal executed
+2024-11-14,9:22,Buy Goods,13828.84,Out,5433.96,Buy Goods executed
+2024-11-15,11:12,Customer Payment,2420.4,In,7854.36,Customer Payment executed
+2024-11-15,13:31,Till Withdrawal,4594.28,Out,3260.08,Till Withdrawal executed
+2024-11-15,15:10,Salary Payment,2033.13,Out,1226.95,Salary Payment executed
+2024-11-15,9:47,Salary Payment,929.15,Out,297.8,Salary Payment executed
+2024-11-15,10:10,Bank Deposit,567.73,In,865.53,Bank Deposit executed
+2024-11-16,10:35,Loan Repayment,600.41,Out,265.12,Loan Repayment executed
+2024-11-16,17:49,Loan Repayment,326.33,Out,0.0,Loan Repayment executed
+2024-11-16,13:52,Till Withdrawal,332.31,Out,0.0,Till Withdrawal executed
+2024-11-16,15:54,Float Top-Up,21929.74,In,21929.74,Float Top-Up executed
+2024-11-16,14:41,Customer Payment,20739.67,In,42669.41,Customer Payment executed
+2024-11-17,15:43,Paybill Payment - Supplier,6006.45,Out,36662.96,Paybill Payment - Supplier executed
+2024-11-17,10:40,Bank Deposit,1074.88,In,37737.84,Bank Deposit executed
+2024-11-18,18:14,Float Top-Up,15374.45,In,53112.29,Float Top-Up executed
+2024-11-18,11:42,Salary Payment,10926.15,Out,42186.14,Salary Payment executed
+2024-11-18,17:20,Bank Withdrawal,16389.91,Out,25796.23,Bank Withdrawal executed
+2024-11-18,9:30,Float Top-Up,10643.78,In,36440.01,Float Top-Up executed
+2024-11-19,18:02,Loan Repayment,2999.38,Out,33440.63,Loan Repayment executed
+2024-11-19,18:07,Till Withdrawal,2215.64,Out,31224.99,Till Withdrawal executed
+2024-11-19,8:28,Loan Repayment,8112.22,Out,23112.77,Loan Repayment executed
+2024-11-19,9:50,Loan Repayment,8425.06,Out,14687.71,Loan Repayment executed
+2024-11-20,17:27,Salary Payment,9057.36,Out,5630.35,Salary Payment executed
+2024-11-20,17:37,Utility Bill Payment,1977.96,Out,3652.39,Utility Bill Payment executed
+2024-11-21,11:16,Loan Repayment,2323.94,Out,1328.45,Loan Repayment executed
+2024-11-21,16:27,Float Top-Up,19410.78,In,20739.23,Float Top-Up executed
+2024-11-21,12:05,Till Withdrawal,7093.15,Out,13646.08,Till Withdrawal executed
+2024-11-22,9:36,Buy Goods,8807.94,Out,4838.14,Buy Goods executed
+2024-11-22,13:05,Float Top-Up,19663.62,In,24501.76,Float Top-Up executed
+2024-11-23,11:10,Bank Withdrawal,11357.71,Out,13144.05,Bank Withdrawal executed
+2024-11-23,17:58,Paybill Payment - Supplier,5712.39,Out,7431.66,Paybill Payment - Supplier executed
+2024-11-23,10:38,Customer Payment,4600.47,In,12032.13,Customer Payment executed
+2024-11-23,15:12,Salary Payment,667.3,Out,11364.83,Salary Payment executed
+2024-11-24,15:01,Till Withdrawal,6602.97,Out,4761.86,Till Withdrawal executed
+2024-11-24,17:01,Till Withdrawal,2691.21,Out,2070.65,Till Withdrawal executed
+2024-11-24,15:37,Bank Deposit,4157.75,In,6228.4,Bank Deposit executed
+2024-11-24,10:37,Loan Repayment,4515.38,Out,1713.02,Loan Repayment executed
+2024-11-25,13:10,Utility Bill Payment,1560.12,Out,152.9,Utility Bill Payment executed
+2024-11-25,9:24,Till Withdrawal,374.51,Out,0.0,Till Withdrawal executed
+2024-11-25,12:17,Paybill Payment - Supplier,325.26,Out,0.0,Paybill Payment - Supplier executed
+2024-11-26,10:48,Buy Goods,260.11,Out,0.0,Buy Goods executed
+2024-11-26,18:00,Bank Deposit,14487.21,In,14487.21,Bank Deposit executed
+2024-11-27,16:14,Salary Payment,10653.77,Out,3833.44,Salary Payment executed
+2024-11-27,18:02,Bank Deposit,22038.95,In,25872.39,Bank Deposit executed
+2024-11-27,11:17,Customer Payment,23445.62,In,49318.01,Customer Payment executed
+2024-11-27,11:30,Bank Withdrawal,18724.69,Out,30593.32,Bank Withdrawal executed
+2024-11-27,13:36,Utility Bill Payment,5208.9,Out,25384.42,Utility Bill Payment executed
+2024-11-28,16:04,Buy Goods,14625.04,Out,10759.38,Buy Goods executed
+2024-11-28,10:47,Bank Deposit,17192.45,In,27951.83,Bank Deposit executed
+2024-11-28,9:47,Paybill Payment - Supplier,14294.96,Out,13656.87,Paybill Payment - Supplier executed
+2024-11-28,13:35,Till Withdrawal,7272.56,Out,6384.31,Till Withdrawal executed
+2024-11-28,13:48,Utility Bill Payment,3171.45,Out,3212.86,Utility Bill Payment executed
+2024-11-29,8:15,Bank Deposit,9915.36,In,13128.22,Bank Deposit executed
+2024-11-29,9:47,Salary Payment,10919.7,Out,2208.52,Salary Payment executed
+2024-11-29,8:41,Bank Withdrawal,1020.2,Out,1188.32,Bank Withdrawal executed
+2024-11-30,8:58,Till Withdrawal,585.05,Out,603.27,Till Withdrawal executed
+2024-11-30,11:48,Float Top-Up,21429.23,In,22032.5,Float Top-Up executed
+2024-11-30,9:57,Till Withdrawal,15796.99,Out,6235.51,Till Withdrawal executed
+2024-11-30,9:58,Salary Payment,5290.22,Out,945.29,Salary Payment executed
+2024-12-01,13:05,Float Top-Up,7987.29,In,8932.58,Float Top-Up executed
+2024-12-01,18:37,Customer Payment,11550.3,In,20482.88,Customer Payment executed
+2024-12-01,14:41,Utility Bill Payment,881.75,Out,19601.13,Utility Bill Payment executed
+2024-12-01,15:07,Customer Payment,16278.19,In,35879.32,Customer Payment executed
+2024-12-02,12:52,Bank Withdrawal,3809.54,Out,32069.78,Bank Withdrawal executed
+2024-12-02,12:22,Bank Withdrawal,1350.43,Out,30719.35,Bank Withdrawal executed
+2024-12-03,16:45,Bank Withdrawal,9404.48,Out,21314.87,Bank Withdrawal executed
+2024-12-03,11:49,Bank Deposit,17894.62,In,39209.49,Bank Deposit executed
+2024-12-04,18:17,Buy Goods,15332.97,Out,23876.52,Buy Goods executed
+2024-12-04,13:36,Bank Deposit,1925.41,In,25801.93,Bank Deposit executed
+2024-12-04,10:56,Loan Repayment,8575.55,Out,17226.38,Loan Repayment executed
+2024-12-04,9:41,Buy Goods,13082.44,Out,4143.94,Buy Goods executed
+2024-12-05,18:57,Bank Deposit,16971.12,In,21115.06,Bank Deposit executed
+2024-12-05,9:53,Loan Repayment,9802.79,Out,11312.27,Loan Repayment executed
+2024-12-05,10:38,Till Withdrawal,6036.98,Out,5275.29,Till Withdrawal executed
+2024-12-05,9:16,Utility Bill Payment,5097.1,Out,178.19,Utility Bill Payment executed
+2024-12-05,11:52,Salary Payment,311.58,Out,0.0,Salary Payment executed
+2024-12-06,17:23,Buy Goods,144.72,Out,0.0,Buy Goods executed
+2024-12-06,13:52,Float Top-Up,16036.36,In,16036.36,Float Top-Up executed
+2024-12-06,11:46,Customer Payment,19164.02,In,35200.38,Customer Payment executed
+2024-12-07,8:35,Loan Repayment,17995.28,Out,17205.1,Loan Repayment executed
+2024-12-07,14:35,Paybill Payment - Supplier,5008.35,Out,12196.75,Paybill Payment - Supplier executed
+2024-12-07,13:06,Salary Payment,7337.73,Out,4859.02,Salary Payment executed
+2024-12-07,12:33,Bank Deposit,742.26,In,5601.28,Bank Deposit executed
+2024-12-07,10:10,Loan Repayment,1457.13,Out,4144.15,Loan Repayment executed
+2024-12-08,14:39,Salary Payment,3130.87,Out,1013.28,Salary Payment executed
+2024-12-08,10:38,Float Top-Up,21220.77,In,22234.05,Float Top-Up executed
+2024-12-09,15:57,Paybill Payment - Supplier,951.77,Out,21282.28,Paybill Payment - Supplier executed
+2024-12-09,13:31,Bank Withdrawal,13278.04,Out,8004.24,Bank Withdrawal executed
+2024-12-10,15:32,Loan Repayment,6027.23,Out,1977.01,Loan Repayment executed
+2024-12-10,14:37,Buy Goods,542.44,Out,1434.57,Buy Goods executed
+2024-12-10,12:07,Utility Bill Payment,805.98,Out,628.59,Utility Bill Payment executed
+2024-12-10,14:24,Bank Withdrawal,620.93,Out,7.66,Bank Withdrawal executed
+2024-12-11,10:18,Salary Payment,112.56,Out,0.0,Salary Payment executed
+2024-12-11,17:05,Till Withdrawal,296.82,Out,0.0,Till Withdrawal executed
+2024-12-11,17:03,Customer Payment,2430.33,In,2430.33,Customer Payment executed
+2024-12-11,14:40,Buy Goods,1106.0,Out,1324.33,Buy Goods executed
+2024-12-12,11:12,Salary Payment,1233.52,Out,90.81,Salary Payment executed
+2024-12-12,10:52,Buy Goods,254.97,Out,0.0,Buy Goods executed
+2024-12-13,8:06,Bank Deposit,11805.3,In,11805.3,Bank Deposit executed
+2024-12-13,14:09,Salary Payment,10263.3,Out,1542.0,Salary Payment executed
+2024-12-13,12:12,Customer Payment,10536.77,In,12078.77,Customer Payment executed
+2024-12-14,9:11,Customer Payment,21765.07,In,33843.84,Customer Payment executed
+2024-12-14,11:57,Utility Bill Payment,7341.37,Out,26502.47,Utility Bill Payment executed
+2024-12-15,10:43,Float Top-Up,10980.4,In,37482.87,Float Top-Up executed
+2024-12-15,11:30,Buy Goods,12989.97,Out,24492.9,Buy Goods executed
+2024-12-15,15:13,Salary Payment,18023.06,Out,6469.84,Salary Payment executed
+2024-12-15,17:04,Utility Bill Payment,5726.64,Out,743.2,Utility Bill Payment executed
+2024-12-15,14:29,Bank Withdrawal,669.53,Out,73.67,Bank Withdrawal executed
+2024-12-16,11:39,Buy Goods,177.87,Out,0.0,Buy Goods executed
+2024-12-16,18:02,Utility Bill Payment,135.79,Out,0.0,Utility Bill Payment executed
+2024-12-16,12:35,Till Withdrawal,11.15,Out,0.0,Till Withdrawal executed
+2024-12-17,11:25,Paybill Payment - Supplier,45.32,Out,0.0,Paybill Payment - Supplier executed
+2024-12-17,14:45,Paybill Payment - Supplier,487.85,Out,0.0,Paybill Payment - Supplier executed
+2024-12-17,17:15,Customer Payment,7127.56,In,7127.56,Customer Payment executed
+2024-12-18,9:38,Float Top-Up,11208.1,In,18335.66,Float Top-Up executed
+2024-12-18,16:14,Salary Payment,8471.87,Out,9863.79,Salary Payment executed
+2024-12-18,11:18,Buy Goods,4124.04,Out,5739.75,Buy Goods executed
+2024-12-18,12:42,Paybill Payment - Supplier,3072.02,Out,2667.73,Paybill Payment - Supplier executed
+2024-12-18,16:01,Utility Bill Payment,1954.96,Out,712.77,Utility Bill Payment executed
+2024-12-19,12:24,Loan Repayment,619.12,Out,93.65,Loan Repayment executed
+2024-12-19,15:13,Float Top-Up,20034.31,In,20127.96,Float Top-Up executed
+2024-12-19,11:27,Loan Repayment,8833.81,Out,11294.15,Loan Repayment executed
+2024-12-20,11:26,Loan Repayment,7530.05,Out,3764.1,Loan Repayment executed
+2024-12-20,15:28,Paybill Payment - Supplier,1888.01,Out,1876.09,Paybill Payment - Supplier executed
+2024-12-20,12:09,Paybill Payment - Supplier,1789.65,Out,86.44,Paybill Payment - Supplier executed
+2024-12-20,17:51,Customer Payment,22137.11,In,22223.55,Customer Payment executed
+2024-12-21,13:04,Till Withdrawal,14386.25,Out,7837.3,Till Withdrawal executed
+2024-12-21,18:51,Bank Deposit,22608.84,In,30446.14,Bank Deposit executed
+2024-12-21,10:56,Till Withdrawal,5764.65,Out,24681.49,Till Withdrawal executed
+2024-12-22,15:43,Customer Payment,21710.48,In,46391.97,Customer Payment executed
+2024-12-22,12:29,Float Top-Up,4154.67,In,50546.64,Float Top-Up executed
+2024-12-22,18:12,Bank Withdrawal,8570.32,Out,41976.32,Bank Withdrawal executed
+2024-12-22,15:50,Float Top-Up,13782.3,In,55758.62,Float Top-Up executed
+2024-12-22,18:38,Float Top-Up,14322.21,In,70080.83,Float Top-Up executed
+2024-12-23,12:32,Bank Deposit,18638.78,In,88719.61,Bank Deposit executed
+2024-12-23,15:55,Bank Withdrawal,3045.51,Out,85674.1,Bank Withdrawal executed
+2024-12-23,14:14,Float Top-Up,860.45,In,86534.55,Float Top-Up executed
+2024-12-23,18:18,Bank Deposit,2769.95,In,89304.5,Bank Deposit executed
+2024-12-23,14:41,Bank Deposit,796.87,In,90101.37,Bank Deposit executed
+2024-12-24,17:15,Till Withdrawal,15310.86,Out,74790.51,Till Withdrawal executed
+2024-12-24,10:17,Salary Payment,7936.14,Out,66854.37,Salary Payment executed
+2024-12-24,17:30,Paybill Payment - Supplier,4945.81,Out,61908.56,Paybill Payment - Supplier executed
+2024-12-24,9:59,Salary Payment,4942.48,Out,56966.08,Salary Payment executed
+2024-12-24,18:04,Float Top-Up,24221.37,In,81187.45,Float Top-Up executed
+2024-12-25,17:31,Bank Deposit,2290.85,In,83478.3,Bank Deposit executed
+2024-12-25,17:30,Bank Deposit,5037.4,In,88515.7,Bank Deposit executed
+2024-12-25,17:05,Bank Deposit,4492.12,In,93007.82,Bank Deposit executed
+2024-12-25,10:35,Loan Repayment,7720.69,Out,85287.13,Loan Repayment executed
+2024-12-26,11:16,Buy Goods,19159.64,Out,66127.49,Buy Goods executed
+2024-12-26,15:59,Float Top-Up,19138.36,In,85265.85,Float Top-Up executed
+2024-12-26,17:55,Bank Withdrawal,8273.38,Out,76992.47,Bank Withdrawal executed
+2024-12-26,13:43,Salary Payment,15325.35,Out,61667.12,Salary Payment executed
+2024-12-27,13:23,Customer Payment,22983.29,In,84650.41,Customer Payment executed
+2024-12-27,16:23,Till Withdrawal,18016.59,Out,66633.82,Till Withdrawal executed
+2024-12-27,10:17,Float Top-Up,19249.41,In,85883.23,Float Top-Up executed
+2024-12-27,10:42,Customer Payment,21180.0,In,107063.23,Customer Payment executed
+2024-12-27,9:20,Bank Withdrawal,8365.8,Out,98697.43,Bank Withdrawal executed
+2024-12-28,15:48,Customer Payment,9324.75,In,108022.18,Customer Payment executed
+2024-12-28,12:11,Bank Deposit,7532.72,In,115554.9,Bank Deposit executed
+2024-12-28,11:24,Salary Payment,17972.51,Out,97582.39,Salary Payment executed
+2024-12-28,14:26,Utility Bill Payment,19700.13,Out,77882.26,Utility Bill Payment executed
+2024-12-29,10:41,Bank Deposit,16436.49,In,94318.75,Bank Deposit executed
+2024-12-29,16:03,Float Top-Up,13780.41,In,108099.16,Float Top-Up executed
+2024-12-30,8:52,Utility Bill Payment,10994.81,Out,97104.35,Utility Bill Payment executed
+2024-12-30,17:14,Loan Repayment,1035.97,Out,96068.38,Loan Repayment executed
+2024-12-30,10:44,Utility Bill Payment,5710.7,Out,90357.68,Utility Bill Payment executed
+2024-12-30,12:17,Loan Repayment,11221.89,Out,79135.79,Loan Repayment executed
+2024-12-31,16:15,Salary Payment,16518.13,Out,62617.66,Salary Payment executed
+2024-12-31,11:16,Buy Goods,14826.21,Out,47791.45,Buy Goods executed
+2024-12-31,8:22,Till Withdrawal,4679.11,Out,43112.34,Till Withdrawal executed
+2024-12-31,9:50,Loan Repayment,4952.45,Out,38159.89,Loan Repayment executed
+2025-01-01,10:46,Till Withdrawal,13169.06,Out,24990.83,Till Withdrawal executed
+2025-01-01,10:33,Loan Repayment,10733.4,Out,14257.43,Loan Repayment executed
+2025-01-01,12:17,Buy Goods,10088.75,Out,4168.68,Buy Goods executed
+2025-01-01,14:41,Loan Repayment,2551.73,Out,1616.95,Loan Repayment executed
+2025-01-01,14:25,Salary Payment,1455.04,Out,161.91,Salary Payment executed
+2025-01-02,12:24,Buy Goods,249.67,Out,0.0,Buy Goods executed
+2025-01-02,14:45,Paybill Payment - Supplier,36.03,Out,0.0,Paybill Payment - Supplier executed
+2025-01-02,12:07,Paybill Payment - Supplier,119.87,Out,0.0,Paybill Payment - Supplier executed
+2025-01-02,16:53,Loan Repayment,196.44,Out,0.0,Loan Repayment executed
+2025-01-03,17:21,Till Withdrawal,351.84,Out,0.0,Till Withdrawal executed
+2025-01-03,9:11,Salary Payment,132.99,Out,0.0,Salary Payment executed
+2025-01-03,13:05,Paybill Payment - Supplier,455.74,Out,0.0,Paybill Payment - Supplier executed
+2025-01-03,14:58,Loan Repayment,320.12,Out,0.0,Loan Repayment executed
+2025-01-04,17:41,Loan Repayment,182.84,Out,0.0,Loan Repayment executed
+2025-01-04,15:04,Loan Repayment,260.71,Out,0.0,Loan Repayment executed
+2025-01-04,10:56,Loan Repayment,89.5,Out,0.0,Loan Repayment executed
+2025-01-04,14:27,Buy Goods,220.68,Out,0.0,Buy Goods executed
+2025-01-05,15:10,Customer Payment,18105.9,In,18105.9,Customer Payment executed
+2025-01-05,9:57,Till Withdrawal,6130.42,Out,11975.48,Till Withdrawal executed
+2025-01-05,9:16,Salary Payment,11453.05,Out,522.43,Salary Payment executed
+2025-01-05,17:28,Customer Payment,2970.15,In,3492.58,Customer Payment executed
+2025-01-05,9:48,Salary Payment,2057.61,Out,1434.97,Salary Payment executed
+2025-01-06,10:16,Bank Deposit,1597.86,In,3032.83,Bank Deposit executed
+2025-01-06,18:12,Customer Payment,14221.45,In,17254.28,Customer Payment executed
+2025-01-06,8:27,Float Top-Up,19758.53,In,37012.81,Float Top-Up executed
+2025-01-07,8:35,Utility Bill Payment,19794.8,Out,17218.01,Utility Bill Payment executed
+2025-01-07,13:19,Paybill Payment - Supplier,15081.67,Out,2136.34,Paybill Payment - Supplier executed
+2025-01-07,12:51,Loan Repayment,1550.95,Out,585.39,Loan Repayment executed
+2025-01-07,15:26,Buy Goods,515.45,Out,69.94,Buy Goods executed
+2025-01-08,11:45,Buy Goods,255.75,Out,0.0,Buy Goods executed
+2025-01-08,18:13,Bank Deposit,18975.91,In,18975.91,Bank Deposit executed
+2025-01-08,17:54,Loan Repayment,12813.18,Out,6162.73,Loan Repayment executed
+2025-01-09,11:09,Customer Payment,19326.56,In,25489.29,Customer Payment executed
+2025-01-09,11:17,Float Top-Up,19331.23,In,44820.52,Float Top-Up executed
+2025-01-09,14:31,Salary Payment,9112.3,Out,35708.22,Salary Payment executed
+2025-01-09,9:40,Till Withdrawal,3234.57,Out,32473.65,Till Withdrawal executed
+2025-01-10,18:21,Float Top-Up,13734.41,In,46208.06,Float Top-Up executed
+2025-01-10,16:01,Bank Withdrawal,13418.82,Out,32789.24,Bank Withdrawal executed
+2025-01-11,12:39,Bank Withdrawal,18405.12,Out,14384.12,Bank Withdrawal executed
+2025-01-11,17:14,Utility Bill Payment,3592.46,Out,10791.66,Utility Bill Payment executed
+2025-01-11,9:51,Float Top-Up,792.81,In,11584.47,Float Top-Up executed
+2025-01-11,11:09,Bank Deposit,14501.18,In,26085.65,Bank Deposit executed
+2025-01-11,11:56,Float Top-Up,24522.2,In,50607.85,Float Top-Up executed
+2025-01-12,14:45,Customer Payment,2235.29,In,52843.14,Customer Payment executed
+2025-01-12,18:12,Float Top-Up,3817.09,In,56660.23,Float Top-Up executed
+2025-01-12,12:56,Till Withdrawal,13839.41,Out,42820.82,Till Withdrawal executed
+2025-01-12,13:39,Bank Deposit,6022.38,In,48843.2,Bank Deposit executed
+2025-01-12,17:23,Bank Deposit,17924.64,In,66767.84,Bank Deposit executed
+2025-01-13,18:33,Salary Payment,939.28,Out,65828.56,Salary Payment executed
+2025-01-13,15:14,Salary Payment,4177.12,Out,61651.44,Salary Payment executed
+2025-01-13,11:45,Salary Payment,690.95,Out,60960.49,Salary Payment executed
+2025-01-14,13:55,Bank Deposit,14158.94,In,75119.43,Bank Deposit executed
+2025-01-14,10:53,Loan Repayment,9878.26,Out,65241.17,Loan Repayment executed
+2025-01-15,14:10,Salary Payment,10578.07,Out,54663.1,Salary Payment executed
+2025-01-15,10:35,Customer Payment,23401.29,In,78064.39,Customer Payment executed
+2025-01-16,12:31,Customer Payment,9560.21,In,87624.6,Customer Payment executed
+2025-01-16,8:38,Buy Goods,6502.28,Out,81122.32,Buy Goods executed
+2025-01-16,9:13,Salary Payment,16384.93,Out,64737.39,Salary Payment executed
+2025-01-16,9:36,Loan Repayment,18810.13,Out,45927.26,Loan Repayment executed
+2025-01-16,16:08,Salary Payment,9694.34,Out,36232.92,Salary Payment executed
+2025-01-17,9:14,Loan Repayment,2840.48,Out,33392.44,Loan Repayment executed
+2025-01-17,15:32,Till Withdrawal,17847.31,Out,15545.13,Till Withdrawal executed
+2025-01-17,12:52,Bank Deposit,14126.98,In,29672.11,Bank Deposit executed
+2025-01-17,9:23,Bank Withdrawal,508.65,Out,29163.46,Bank Withdrawal executed
+2025-01-18,8:57,Loan Repayment,13558.25,Out,15605.21,Loan Repayment executed
+2025-01-18,10:09,Buy Goods,4022.44,Out,11582.77,Buy Goods executed
+2025-01-18,16:57,Customer Payment,6349.42,In,17932.19,Customer Payment executed
+2025-01-18,16:30,Bank Deposit,16615.22,In,34547.41,Bank Deposit executed
+2025-01-19,12:04,Float Top-Up,18878.11,In,53425.52,Float Top-Up executed
+2025-01-19,14:27,Till Withdrawal,14558.92,Out,38866.6,Till Withdrawal executed
+2025-01-19,8:45,Bank Deposit,4213.55,In,43080.15,Bank Deposit executed
+2025-01-19,9:10,Paybill Payment - Supplier,17235.32,Out,25844.83,Paybill Payment - Supplier executed
+2025-01-20,12:38,Utility Bill Payment,7252.74,Out,18592.09,Utility Bill Payment executed
+2025-01-20,12:54,Loan Repayment,9006.83,Out,9585.26,Loan Repayment executed
+2025-01-20,11:17,Loan Repayment,1231.23,Out,8354.03,Loan Repayment executed
+2025-01-21,17:35,Salary Payment,8188.33,Out,165.7,Salary Payment executed
+2025-01-21,16:23,Float Top-Up,14764.39,In,14930.09,Float Top-Up executed
+2025-01-21,9:56,Utility Bill Payment,8408.43,Out,6521.66,Utility Bill Payment executed
+2025-01-22,15:02,Bank Deposit,7465.0,In,13986.66,Bank Deposit executed
+2025-01-22,15:43,Bank Withdrawal,12419.93,Out,1566.73,Bank Withdrawal executed
+2025-01-22,10:00,Customer Payment,15180.23,In,16746.96,Customer Payment executed
+2025-01-23,8:41,Paybill Payment - Supplier,9703.22,Out,7043.74,Paybill Payment - Supplier executed
+2025-01-23,10:55,Buy Goods,2863.98,Out,4179.76,Buy Goods executed
+2025-01-23,16:47,Bank Deposit,10573.97,In,14753.73,Bank Deposit executed
+2025-01-23,12:51,Buy Goods,14252.05,Out,501.68,Buy Goods executed
+2025-01-24,12:02,Till Withdrawal,501.44,Out,0.24,Till Withdrawal executed
+2025-01-24,17:30,Bank Withdrawal,195.69,Out,0.0,Bank Withdrawal executed
+2025-01-24,9:54,Utility Bill Payment,52.78,Out,0.0,Utility Bill Payment executed
+2025-01-24,13:46,Float Top-Up,7514.39,In,7514.39,Float Top-Up executed
+2025-01-24,15:45,Bank Withdrawal,3166.95,Out,4347.44,Bank Withdrawal executed
+2025-01-25,9:47,Till Withdrawal,3027.46,Out,1319.98,Till Withdrawal executed
+2025-01-25,15:26,Paybill Payment - Supplier,522.37,Out,797.61,Paybill Payment - Supplier executed
+2025-01-25,14:48,Customer Payment,24259.87,In,25057.48,Customer Payment executed
+2025-01-25,8:21,Float Top-Up,19006.6,In,44064.08,Float Top-Up executed
+2025-01-26,18:57,Salary Payment,13448.28,Out,30615.8,Salary Payment executed
+2025-01-26,17:35,Utility Bill Payment,10773.11,Out,19842.69,Utility Bill Payment executed
+2025-01-26,18:04,Utility Bill Payment,3042.25,Out,16800.44,Utility Bill Payment executed
+2025-01-26,15:21,Float Top-Up,5929.72,In,22730.16,Float Top-Up executed
+2025-01-26,11:45,Float Top-Up,9320.39,In,32050.55,Float Top-Up executed
+2025-01-27,9:54,Till Withdrawal,19584.73,Out,12465.82,Till Withdrawal executed
+2025-01-27,14:49,Buy Goods,8347.27,Out,4118.55,Buy Goods executed
+2025-01-28,12:41,Buy Goods,3540.51,Out,578.04,Buy Goods executed
+2025-01-28,9:09,Loan Repayment,543.26,Out,34.78,Loan Repayment executed
+2025-01-28,10:26,Salary Payment,165.91,Out,0.0,Salary Payment executed
+2025-01-28,17:59,Utility Bill Payment,391.82,Out,0.0,Utility Bill Payment executed
+2025-01-29,14:36,Bank Withdrawal,314.96,Out,0.0,Bank Withdrawal executed
+2025-01-29,8:56,Till Withdrawal,402.73,Out,0.0,Till Withdrawal executed
+2025-01-30,14:34,Customer Payment,10587.69,In,10587.69,Customer Payment executed
+2025-01-30,8:49,Bank Deposit,21582.63,In,32170.32,Bank Deposit executed
+2025-01-30,18:19,Bank Withdrawal,6529.65,Out,25640.67,Bank Withdrawal executed
+2025-01-30,9:38,Float Top-Up,9422.37,In,35063.04,Float Top-Up executed
+2025-01-31,11:58,Bank Withdrawal,15883.41,Out,19179.63,Bank Withdrawal executed
+2025-01-31,14:29,Paybill Payment - Supplier,16387.55,Out,2792.08,Paybill Payment - Supplier executed
+2025-01-31,10:51,Buy Goods,1280.59,Out,1511.49,Buy Goods executed
+2025-02-01,11:08,Bank Withdrawal,706.52,Out,804.97,Bank Withdrawal executed
+2025-02-01,14:50,Bank Withdrawal,669.64,Out,135.33,Bank Withdrawal executed
+2025-02-01,10:12,Float Top-Up,12555.52,In,12690.85,Float Top-Up executed
+2025-02-01,10:10,Loan Repayment,8147.37,Out,4543.48,Loan Repayment executed
+2025-02-01,8:35,Till Withdrawal,4215.72,Out,327.76,Till Withdrawal executed
+2025-02-02,8:46,Paybill Payment - Supplier,474.92,Out,0.0,Paybill Payment - Supplier executed
+2025-02-02,12:57,Salary Payment,400.89,Out,0.0,Salary Payment executed
+2025-02-02,12:42,Bank Deposit,11485.96,In,11485.96,Bank Deposit executed
+2025-02-03,13:43,Salary Payment,6816.79,Out,4669.17,Salary Payment executed
+2025-02-03,18:28,Bank Deposit,10001.89,In,14671.06,Bank Deposit executed
+2025-02-04,11:46,Salary Payment,6516.07,Out,8154.99,Salary Payment executed
+2025-02-04,10:57,Utility Bill Payment,5993.83,Out,2161.16,Utility Bill Payment executed
+2025-02-04,16:25,Loan Repayment,1113.0,Out,1048.16,Loan Repayment executed
+2025-02-04,17:51,Salary Payment,631.96,Out,416.2,Salary Payment executed
+2025-02-05,10:36,Loan Repayment,430.21,Out,0.0,Loan Repayment executed
+2025-02-05,8:00,Salary Payment,113.73,Out,0.0,Salary Payment executed
+2025-02-06,11:59,Bank Deposit,18388.59,In,18388.59,Bank Deposit executed
+2025-02-06,16:37,Loan Repayment,16344.22,Out,2044.37,Loan Repayment executed
+2025-02-06,13:02,Bank Deposit,22919.85,In,24964.22,Bank Deposit executed
+2025-02-07,17:05,Till Withdrawal,4266.5,Out,20697.72,Till Withdrawal executed
+2025-02-07,16:52,Utility Bill Payment,16035.28,Out,4662.44,Utility Bill Payment executed
+2025-02-07,9:27,Bank Deposit,17398.77,In,22061.21,Bank Deposit executed
+2025-02-07,14:48,Bank Withdrawal,9146.03,Out,12915.18,Bank Withdrawal executed
+2025-02-07,8:46,Loan Repayment,744.76,Out,12170.42,Loan Repayment executed
+2025-02-08,18:33,Salary Payment,4944.24,Out,7226.18,Salary Payment executed
+2025-02-08,12:48,Float Top-Up,6078.59,In,13304.77,Float Top-Up executed
+2025-02-08,12:38,Loan Repayment,4525.97,Out,8778.8,Loan Repayment executed
+2025-02-08,11:29,Bank Withdrawal,533.74,Out,8245.06,Bank Withdrawal executed
+2025-02-09,10:28,Customer Payment,8830.78,In,17075.84,Customer Payment executed
+2025-02-09,17:47,Float Top-Up,22028.23,In,39104.07,Float Top-Up executed
+2025-02-09,8:54,Loan Repayment,4903.84,Out,34200.23,Loan Repayment executed
+2025-02-09,17:22,Float Top-Up,13676.15,In,47876.38,Float Top-Up executed
+2025-02-09,16:01,Bank Withdrawal,9094.53,Out,38781.85,Bank Withdrawal executed
+2025-02-10,17:51,Till Withdrawal,8441.1,Out,30340.75,Till Withdrawal executed
+2025-02-10,17:11,Bank Withdrawal,8096.14,Out,22244.61,Bank Withdrawal executed
+2025-02-10,14:22,Float Top-Up,5757.88,In,28002.49,Float Top-Up executed
+2025-02-11,16:08,Loan Repayment,17461.42,Out,10541.07,Loan Repayment executed
+2025-02-11,13:44,Bank Withdrawal,9294.24,Out,1246.83,Bank Withdrawal executed
+2025-02-11,12:06,Till Withdrawal,655.04,Out,591.79,Till Withdrawal executed
+2025-02-12,17:56,Loan Repayment,525.0,Out,66.79,Loan Repayment executed
+2025-02-12,15:03,Utility Bill Payment,329.37,Out,0.0,Utility Bill Payment executed
+2025-02-13,9:18,Bank Deposit,3867.4,In,3867.4,Bank Deposit executed
+2025-02-13,17:58,Buy Goods,1917.72,Out,1949.68,Buy Goods executed
+2025-02-13,9:47,Loan Repayment,1573.46,Out,376.22,Loan Repayment executed
+2025-02-13,11:26,Loan Repayment,378.46,Out,0.0,Loan Repayment executed
+2025-02-14,16:07,Loan Repayment,122.81,Out,0.0,Loan Repayment executed
+2025-02-14,13:14,Till Withdrawal,487.13,Out,0.0,Till Withdrawal executed
+2025-02-14,8:52,Utility Bill Payment,141.24,Out,0.0,Utility Bill Payment executed
+2025-02-14,15:09,Paybill Payment - Supplier,31.74,Out,0.0,Paybill Payment - Supplier executed
+2025-02-15,13:42,Customer Payment,9849.85,In,9849.85,Customer Payment executed
+2025-02-15,16:34,Salary Payment,3981.1,Out,5868.75,Salary Payment executed
+2025-02-15,12:15,Loan Repayment,3484.56,Out,2384.19,Loan Repayment executed
+2025-02-15,12:10,Paybill Payment - Supplier,555.35,Out,1828.84,Paybill Payment - Supplier executed
+2025-02-15,14:30,Float Top-Up,2178.43,In,4007.27,Float Top-Up executed
+2025-02-16,11:01,Loan Repayment,2011.72,Out,1995.55,Loan Repayment executed
+2025-02-16,13:26,Utility Bill Payment,1797.71,Out,197.84,Utility Bill Payment executed
+2025-02-17,12:41,Bank Withdrawal,253.74,Out,0.0,Bank Withdrawal executed
+2025-02-17,11:07,Salary Payment,158.06,Out,0.0,Salary Payment executed
+2025-02-17,12:32,Salary Payment,74.98,Out,0.0,Salary Payment executed
+2025-02-17,15:57,Utility Bill Payment,255.95,Out,0.0,Utility Bill Payment executed
+2025-02-18,16:31,Float Top-Up,10183.06,In,10183.06,Float Top-Up executed
+2025-02-18,15:30,Loan Repayment,1682.81,Out,8500.25,Loan Repayment executed
+2025-02-18,16:58,Paybill Payment - Supplier,5223.42,Out,3276.83,Paybill Payment - Supplier executed
+2025-02-19,16:25,Paybill Payment - Supplier,1942.76,Out,1334.07,Paybill Payment - Supplier executed
+2025-02-19,16:12,Bank Deposit,20514.44,In,21848.51,Bank Deposit executed
+2025-02-19,14:59,Float Top-Up,1639.74,In,23488.25,Float Top-Up executed
+2025-02-20,13:16,Paybill Payment - Supplier,18952.08,Out,4536.17,Paybill Payment - Supplier executed
+2025-02-20,16:44,Till Withdrawal,3043.81,Out,1492.36,Till Withdrawal executed
+2025-02-20,8:37,Paybill Payment - Supplier,1443.33,Out,49.03,Paybill Payment - Supplier executed
+2025-02-21,13:33,Utility Bill Payment,138.55,Out,0.0,Utility Bill Payment executed
+2025-02-21,8:01,Float Top-Up,6300.06,In,6300.06,Float Top-Up executed
+2025-02-21,11:34,Bank Deposit,8363.34,In,14663.4,Bank Deposit executed
+2025-02-21,14:07,Utility Bill Payment,4158.19,Out,10505.21,Utility Bill Payment executed
+2025-02-22,16:08,Till Withdrawal,2169.03,Out,8336.18,Till Withdrawal executed
+2025-02-22,17:36,Customer Payment,23023.52,In,31359.7,Customer Payment executed
+2025-02-22,15:31,Till Withdrawal,2517.19,Out,28842.51,Till Withdrawal executed
+2025-02-22,11:10,Buy Goods,16939.42,Out,11903.09,Buy Goods executed
+2025-02-22,14:21,Salary Payment,6536.64,Out,5366.45,Salary Payment executed
+2025-02-23,18:45,Paybill Payment - Supplier,3639.55,Out,1726.9,Paybill Payment - Supplier executed
+2025-02-23,8:39,Loan Repayment,1060.73,Out,666.17,Loan Repayment executed
+2025-02-23,12:28,Bank Withdrawal,640.29,Out,25.88,Bank Withdrawal executed
+2025-02-23,15:28,Paybill Payment - Supplier,88.97,Out,0.0,Paybill Payment - Supplier executed
+2025-02-23,14:22,Customer Payment,5660.35,In,5660.35,Customer Payment executed
+2025-02-24,13:35,Buy Goods,2424.57,Out,3235.78,Buy Goods executed
+2025-02-24,16:48,Bank Withdrawal,2795.6,Out,440.18,Bank Withdrawal executed
+2025-02-25,12:56,Buy Goods,477.62,Out,0.0,Buy Goods executed
+2025-02-25,18:40,Bank Deposit,2445.47,In,2445.47,Bank Deposit executed
+2025-02-25,12:02,Salary Payment,1573.94,Out,871.53,Salary Payment executed
+2025-02-25,16:36,Utility Bill Payment,759.05,Out,112.48,Utility Bill Payment executed
+2025-02-26,16:21,Paybill Payment - Supplier,270.43,Out,0.0,Paybill Payment - Supplier executed
+2025-02-26,15:47,Loan Repayment,84.87,Out,0.0,Loan Repayment executed
+2025-02-26,12:50,Till Withdrawal,189.51,Out,0.0,Till Withdrawal executed
+2025-02-27,10:00,Bank Deposit,15537.15,In,15537.15,Bank Deposit executed
+2025-02-27,12:50,Buy Goods,14492.83,Out,1044.32,Buy Goods executed
+2025-02-27,16:33,Bank Withdrawal,792.48,Out,251.84,Bank Withdrawal executed
+2025-02-28,15:11,Bank Withdrawal,464.55,Out,0.0,Bank Withdrawal executed
+2025-02-28,14:08,Utility Bill Payment,249.93,Out,0.0,Utility Bill Payment executed
+2025-02-28,18:14,Salary Payment,8.01,Out,0.0,Salary Payment executed
+2025-03-01,12:45,Bank Deposit,13780.22,In,13780.22,Bank Deposit executed
+2025-03-01,13:49,Float Top-Up,3365.33,In,17145.55,Float Top-Up executed
+2025-03-01,17:05,Loan Repayment,2898.37,Out,14247.18,Loan Repayment executed
+2025-03-01,10:44,Float Top-Up,23188.67,In,37435.85,Float Top-Up executed
+2025-03-01,18:51,Buy Goods,4670.18,Out,32765.67,Buy Goods executed
+2025-03-02,9:47,Salary Payment,10703.32,Out,22062.35,Salary Payment executed
+2025-03-02,18:15,Customer Payment,5300.41,In,27362.76,Customer Payment executed
+2025-03-02,13:53,Loan Repayment,1697.7,Out,25665.06,Loan Repayment executed
+2025-03-02,10:00,Float Top-Up,20575.31,In,46240.37,Float Top-Up executed
+2025-03-03,8:22,Customer Payment,10387.32,In,56627.69,Customer Payment executed
+2025-03-03,12:20,Till Withdrawal,19574.92,Out,37052.77,Till Withdrawal executed
+2025-03-03,14:31,Salary Payment,11859.83,Out,25192.94,Salary Payment executed
+2025-03-03,17:33,Float Top-Up,20589.69,In,45782.63,Float Top-Up executed
+2025-03-03,14:23,Utility Bill Payment,6766.36,Out,39016.27,Utility Bill Payment executed
+2025-03-04,11:59,Bank Deposit,9863.06,In,48879.33,Bank Deposit executed
+2025-03-04,15:44,Customer Payment,22642.91,In,71522.24,Customer Payment executed
+2025-03-04,10:47,Salary Payment,11922.44,Out,59599.8,Salary Payment executed
+2025-03-04,12:53,Float Top-Up,1622.49,In,61222.29,Float Top-Up executed
+2025-03-05,18:40,Paybill Payment - Supplier,8940.79,Out,52281.5,Paybill Payment - Supplier executed
+2025-03-05,10:35,Utility Bill Payment,14270.3,Out,38011.2,Utility Bill Payment executed
+2025-03-06,16:23,Float Top-Up,2979.4,In,40990.6,Float Top-Up executed
+2025-03-06,12:15,Customer Payment,2692.58,In,43683.18,Customer Payment executed
+2025-03-07,11:46,Float Top-Up,7777.26,In,51460.44,Float Top-Up executed
+2025-03-07,15:41,Bank Deposit,22717.05,In,74177.49,Bank Deposit executed
+2025-03-07,13:57,Salary Payment,7447.33,Out,66730.16,Salary Payment executed
+2025-03-07,18:41,Paybill Payment - Supplier,6006.22,Out,60723.94,Paybill Payment - Supplier executed
+2025-03-07,10:06,Customer Payment,1310.5,In,62034.44,Customer Payment executed
+2025-03-08,16:20,Bank Withdrawal,3074.97,Out,58959.47,Bank Withdrawal executed
+2025-03-08,16:27,Customer Payment,15530.15,In,74489.62,Customer Payment executed
+2025-03-08,9:40,Customer Payment,24809.14,In,99298.76,Customer Payment executed
+2025-03-09,15:47,Bank Deposit,10738.78,In,110037.54,Bank Deposit executed
+2025-03-09,16:04,Bank Withdrawal,9893.12,Out,100144.42,Bank Withdrawal executed
+2025-03-09,15:06,Bank Withdrawal,13668.56,Out,86475.86,Bank Withdrawal executed
+2025-03-09,9:14,Utility Bill Payment,5598.81,Out,80877.05,Utility Bill Payment executed
+2025-03-10,15:09,Bank Withdrawal,11706.13,Out,69170.92,Bank Withdrawal executed
+2025-03-10,17:09,Salary Payment,4449.76,Out,64721.16,Salary Payment executed
+2025-03-10,17:02,Paybill Payment - Supplier,4399.73,Out,60321.43,Paybill Payment - Supplier executed
+2025-03-11,9:30,Salary Payment,12790.01,Out,47531.42,Salary Payment executed
+2025-03-11,18:35,Till Withdrawal,13775.99,Out,33755.43,Till Withdrawal executed
+2025-03-12,12:48,Bank Deposit,6816.23,In,40571.66,Bank Deposit executed
+2025-03-12,8:48,Bank Withdrawal,696.9,Out,39874.76,Bank Withdrawal executed
+2025-03-12,14:54,Till Withdrawal,7968.71,Out,31906.05,Till Withdrawal executed
+2025-03-12,17:44,Bank Deposit,13564.8,In,45470.85,Bank Deposit executed
+2025-03-13,15:10,Paybill Payment - Supplier,15413.89,Out,30056.96,Paybill Payment - Supplier executed
+2025-03-13,11:02,Till Withdrawal,4527.41,Out,25529.55,Till Withdrawal executed
+2025-03-13,8:12,Loan Repayment,18865.38,Out,6664.17,Loan Repayment executed
+2025-03-14,15:19,Till Withdrawal,1310.89,Out,5353.28,Till Withdrawal executed
+2025-03-14,14:48,Salary Payment,4738.7,Out,614.58,Salary Payment executed
+2025-03-14,9:18,Paybill Payment - Supplier,552.69,Out,61.89,Paybill Payment - Supplier executed
+2025-03-15,16:27,Salary Payment,384.18,Out,0.0,Salary Payment executed
+2025-03-15,13:30,Utility Bill Payment,142.19,Out,0.0,Utility Bill Payment executed
+2025-03-15,11:11,Till Withdrawal,1.08,Out,0.0,Till Withdrawal executed
+2025-03-15,17:11,Salary Payment,39.32,Out,0.0,Salary Payment executed
+2025-03-15,9:10,Buy Goods,70.37,Out,0.0,Buy Goods executed
+2025-03-16,10:20,Float Top-Up,13651.87,In,13651.87,Float Top-Up executed
+2025-03-16,18:14,Customer Payment,12567.59,In,26219.46,Customer Payment executed
+2025-03-16,18:47,Float Top-Up,657.14,In,26876.6,Float Top-Up executed
+2025-03-17,9:42,Utility Bill Payment,17441.34,Out,9435.26,Utility Bill Payment executed
+2025-03-17,11:34,Salary Payment,6122.72,Out,3312.54,Salary Payment executed
+2025-03-17,9:30,Salary Payment,1347.9,Out,1964.64,Salary Payment executed
+2025-03-17,17:57,Buy Goods,1830.12,Out,134.52,Buy Goods executed
+2025-03-17,12:33,Loan Repayment,285.46,Out,0.0,Loan Repayment executed
+2025-03-18,16:24,Bank Deposit,8531.61,In,8531.61,Bank Deposit executed
+2025-03-18,16:46,Bank Withdrawal,2734.77,Out,5796.84,Bank Withdrawal executed
+2025-03-19,10:58,Till Withdrawal,1344.56,Out,4452.28,Till Withdrawal executed
+2025-03-19,14:34,Salary Payment,1720.53,Out,2731.75,Salary Payment executed
+2025-03-19,9:29,Buy Goods,1941.38,Out,790.37,Buy Goods executed
+2025-03-19,13:59,Float Top-Up,10001.92,In,10792.29,Float Top-Up executed
+2025-03-19,9:01,Bank Withdrawal,6674.3,Out,4117.99,Bank Withdrawal executed
+2025-03-20,16:10,Bank Withdrawal,1860.76,Out,2257.23,Bank Withdrawal executed
+2025-03-20,17:46,Salary Payment,1745.32,Out,511.91,Salary Payment executed
+2025-03-20,8:59,Salary Payment,502.18,Out,9.73,Salary Payment executed
+2025-03-21,14:02,Utility Bill Payment,299.64,Out,0.0,Utility Bill Payment executed
+2025-03-21,12:18,Till Withdrawal,367.28,Out,0.0,Till Withdrawal executed
+2025-03-21,9:59,Buy Goods,219.16,Out,0.0,Buy Goods executed
+2025-03-21,16:54,Float Top-Up,20815.83,In,20815.83,Float Top-Up executed
+2025-03-22,11:31,Customer Payment,22552.46,In,43368.29,Customer Payment executed
+2025-03-22,17:56,Loan Repayment,8899.03,Out,34469.26,Loan Repayment executed
+2025-03-22,15:43,Bank Withdrawal,4530.52,Out,29938.74,Bank Withdrawal executed
+2025-03-23,15:55,Buy Goods,16892.64,Out,13046.1,Buy Goods executed
+2025-03-23,8:23,Salary Payment,5929.6,Out,7116.5,Salary Payment executed
+2025-03-23,11:02,Loan Repayment,1819.87,Out,5296.63,Loan Repayment executed
+2025-03-23,14:50,Bank Withdrawal,2545.81,Out,2750.82,Bank Withdrawal executed
+2025-03-23,12:43,Paybill Payment - Supplier,1632.8,Out,1118.02,Paybill Payment - Supplier executed
+2025-03-24,18:44,Paybill Payment - Supplier,854.24,Out,263.78,Paybill Payment - Supplier executed
+2025-03-24,8:27,Till Withdrawal,307.34,Out,0.0,Till Withdrawal executed
+2025-03-24,16:56,Buy Goods,434.05,Out,0.0,Buy Goods executed
+2025-03-24,18:43,Salary Payment,366.66,Out,0.0,Salary Payment executed
+2025-03-25,11:28,Bank Deposit,8081.38,In,8081.38,Bank Deposit executed
+2025-03-25,15:15,Bank Deposit,17003.95,In,25085.33,Bank Deposit executed
+2025-03-26,8:58,Buy Goods,5263.99,Out,19821.34,Buy Goods executed
+2025-03-26,14:25,Paybill Payment - Supplier,12702.6,Out,7118.74,Paybill Payment - Supplier executed
+2025-03-27,11:39,Till Withdrawal,6338.35,Out,780.39,Till Withdrawal executed
+2025-03-27,14:39,Loan Repayment,548.4,Out,231.99,Loan Repayment executed
+2025-03-27,10:04,Bank Deposit,18664.38,In,18896.37,Bank Deposit executed
+2025-03-27,17:06,Buy Goods,4664.11,Out,14232.26,Buy Goods executed
+2025-03-27,12:57,Utility Bill Payment,9621.12,Out,4611.14,Utility Bill Payment executed
+2025-03-28,9:51,Customer Payment,17910.28,In,22521.42,Customer Payment executed
+2025-03-28,8:02,Customer Payment,7736.18,In,30257.6,Customer Payment executed
+2025-03-28,16:52,Float Top-Up,3287.75,In,33545.35,Float Top-Up executed
+2025-03-28,12:22,Bank Withdrawal,3210.72,Out,30334.63,Bank Withdrawal executed
+2025-03-29,18:20,Bank Withdrawal,2194.56,Out,28140.07,Bank Withdrawal executed
+2025-03-29,18:08,Salary Payment,7975.73,Out,20164.34,Salary Payment executed
+2025-03-30,14:12,Till Withdrawal,10719.79,Out,9444.55,Till Withdrawal executed
+2025-03-30,16:27,Buy Goods,8973.41,Out,471.14,Buy Goods executed
+2025-03-30,17:45,Paybill Payment - Supplier,489.89,Out,0.0,Paybill Payment - Supplier executed
+2025-03-31,12:56,Buy Goods,256.21,Out,0.0,Buy Goods executed
+2025-03-31,14:25,Loan Repayment,268.45,Out,0.0,Loan Repayment executed
+2025-03-31,16:21,Float Top-Up,9757.32,In,9757.32,Float Top-Up executed
+2025-03-31,17:49,Paybill Payment - Supplier,1645.6,Out,8111.72,Paybill Payment - Supplier executed
+2025-04-01,17:08,Bank Deposit,21754.64,In,29866.36,Bank Deposit executed
+2025-04-01,11:32,Salary Payment,15114.31,Out,14752.05,Salary Payment executed
+2025-04-01,14:22,Bank Deposit,15423.1,In,30175.15,Bank Deposit executed
+2025-04-02,8:24,Float Top-Up,22646.93,In,52822.08,Float Top-Up executed
+2025-04-02,11:41,Bank Deposit,12415.31,In,65237.39,Bank Deposit executed
+2025-04-02,13:00,Customer Payment,22559.66,In,87797.05,Customer Payment executed
+2025-04-03,17:48,Till Withdrawal,17413.66,Out,70383.39,Till Withdrawal executed
+2025-04-03,10:04,Bank Deposit,12714.08,In,83097.47,Bank Deposit executed
+2025-04-03,15:52,Utility Bill Payment,4022.75,Out,79074.72,Utility Bill Payment executed
+2025-04-03,15:47,Bank Withdrawal,15837.8,Out,63236.92,Bank Withdrawal executed
+2025-04-04,13:35,Utility Bill Payment,2112.26,Out,61124.66,Utility Bill Payment executed
+2025-04-04,18:19,Bank Withdrawal,16121.5,Out,45003.16,Bank Withdrawal executed
+2025-04-04,9:19,Salary Payment,4620.1,Out,40383.06,Salary Payment executed
+2025-04-04,17:08,Bank Deposit,8722.63,In,49105.69,Bank Deposit executed
+2025-04-04,12:40,Loan Repayment,13299.26,Out,35806.43,Loan Repayment executed
+2025-04-05,18:25,Bank Withdrawal,10860.55,Out,24945.88,Bank Withdrawal executed
+2025-04-05,9:31,Loan Repayment,16255.23,Out,8690.65,Loan Repayment executed
+2025-04-05,18:40,Customer Payment,5811.59,In,14502.24,Customer Payment executed
+2025-04-05,18:55,Salary Payment,13036.57,Out,1465.67,Salary Payment executed
+2025-04-05,13:23,Float Top-Up,13416.44,In,14882.11,Float Top-Up executed
+2025-04-06,18:18,Loan Repayment,9759.81,Out,5122.3,Loan Repayment executed
+2025-04-06,15:24,Paybill Payment - Supplier,3776.47,Out,1345.83,Paybill Payment - Supplier executed
+2025-04-06,11:20,Salary Payment,804.04,Out,541.79,Salary Payment executed
+2025-04-06,18:01,Customer Payment,23792.51,In,24334.3,Customer Payment executed
+2025-04-06,8:50,Bank Deposit,10540.24,In,34874.54,Bank Deposit executed
+2025-04-07,13:02,Float Top-Up,19056.02,In,53930.56,Float Top-Up executed
+2025-04-07,18:51,Bank Withdrawal,8990.62,Out,44939.94,Bank Withdrawal executed
+2025-04-07,17:29,Bank Withdrawal,2838.34,Out,42101.6,Bank Withdrawal executed
+2025-04-07,11:26,Buy Goods,11814.28,Out,30287.32,Buy Goods executed
+2025-04-07,12:31,Till Withdrawal,17884.68,Out,12402.64,Till Withdrawal executed
