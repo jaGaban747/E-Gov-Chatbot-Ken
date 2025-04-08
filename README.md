@@ -1,16 +1,23 @@
 
-# 🧠 MSE Insights Copilot  
+# 🧠 MSE Insights Copilot
 *Empowering Kenyan Micro & Small Enterprises (MSEs) with AI-powered financial insights from M-Pesa and Microsoft Fabric.*
 
 ---
 
-## 🚀 Overview  
+## 🚀 Overview
 **MSE Insights Copilot** is a practical, end-to-end analytics and AI solution tailored for Kenyan micro and small enterprises. It helps business owners unlock financial insights from everyday mobile money (M-Pesa) transactions, visualize key performance metrics, and interact with their data using a chatbot – all powered by **Microsoft Fabric** and **Azure AI**.
 
-> 💼 **Designed to help business owners answer:**  
-- “Where is my money going?”  
-- “Which day is my best for income?”  
+> 💼 **Designed to help business owners answer:**
+- “Where is my money going?”
+- “Which day is my best for income?”
 - “How can I improve profits?”
+
+---
+
+## 📥 Initial App Interface
+Below is the homepage view when the app starts. Users are prompted to upload their M-Pesa CSV file to begin analysis.
+
+![Upload Interface](screenshots/Screenshot(498).png)
 
 ---
 
@@ -38,37 +45,31 @@
 
 ---
 
-## 📷 Key Visuals and Explanations
+## 🔍 Microsoft Fabric Lakehouse View
+All uploaded M-Pesa transactions are stored in the `mpesa_cleaned` table inside a Microsoft Fabric Lakehouse.
 
-### 📊 Power BI Dashboard Screenshot
-![Power BI Dashboard](./screenshots/Screenshot_494.png)
-
-**Purpose:**  
-Shows overall business performance — monthly trends, income, expenses, and transaction summaries. Built in Power BI connected to Fabric Lakehouse.
+![Lakehouse Data Table](screenshots/Screenshot(497).png)
 
 ---
 
-### 🧠 AI Copilot Chat Interface
-![Chatbot UI](./screenshots/Screenshot_495.png)
+## ⚙️ Eventhouse System Overview
+Ingested telemetry and analytics events are stored in an Eventhouse, making them accessible for KQL querying and real-time analysis.
 
-**Purpose:**  
-User can ask questions like “What was my highest expense last month?” and get AI-generated answers using Azure OpenAI.
-
----
-
-### 📥 Streamlit Upload Page
-![Upload CSV](./screenshots/Screenshot_496.png)
-
-**Purpose:**  
-User uploads M-Pesa CSV file with transaction records to generate financial insights on-the-fly.
+![Eventhouse in Microsoft Fabric](screenshots/Screenshot(496).png)
 
 ---
 
-### 🔍 Semantic Search Demo
-![Semantic Search](./screenshots/Screenshot_497.png)
+## 🗃️ Fabric Workspace Structure
+This shows the full Microsoft Fabric workspace setup including lakehouses, Eventhouses, Power BI reports, and notebooks.
 
-**Purpose:**  
-Search similar transactions using AI embeddings — for example, "all payments to suppliers" or "related customer refunds".
+![Fabric Workspace Structure](screenshots/Screenshot(495).png)
+
+---
+
+## 📊 Power BI Financial Dashboard
+This report visualizes M-Pesa transactions grouped by date and transaction type, providing a breakdown of inflow vs outflow.
+
+![Power BI Dashboard](screenshots/Screenshot(494).png)
 
 ---
 
@@ -80,10 +81,10 @@ git clone https://github.com/yourusername/mse-insights-copilot.git
 cd mse-insights-copilot
 ```
 
-### 2. Create a `.env` File
-```env
+### 2. Create a .env File
+```bash
 API_KEY=your_azure_openai_api_key
-ENDPOINT_URL=https://your-proxy-endpoint
+ENDPOINT_URL=https://your-azure-endpoint
 API_VERSION=2023-09-01-preview
 EMBEDDING_MODEL=text-embedding-ada-002-kenya-hack
 GPT_MODEL=gpt-4o-kenya-hack
@@ -92,7 +93,7 @@ GPT_MODEL=gpt-4o-kenya-hack
 ### 3. Install Dependencies
 ```bash
 python -m venv venv
-source  venv\Scriptsctivate
+source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
@@ -103,12 +104,15 @@ streamlit run dashboard.py
 
 ---
 
-## 📝 Documentation Notes
+## 📦 Final Fabric Artifacts
+Final integrated artifacts including eventhouse, lakehouse, semantic models, and Power BI reports ready for deployment.
 
-- All embeddings are stored in Eventhouse (Microsoft Fabric Lakehouse)
-- Semantic search is powered by Azure OpenAI Embeddings (text-embedding-ada-002-kenya-hack)
-- The chatbot uses Azure OpenAI’s GPT-4o model for contextual business insights
-- Streamlit acts as the unified frontend for interaction, upload, search, and analysis
+![Final Fabric Deployment Resources](screenshots\Screenshot(493).png)
 
 ---
 
+
+## 📢 Contributors & Acknowledgments
+This project was developed as part of the Microsoft Fabric + Azure AI Hackathon challenge.
+
+---
