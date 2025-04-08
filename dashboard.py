@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from ai.chatbot import chat_with_ai
 
 st.set_page_config(page_title="MSE Insights Copilot", layout="wide")
-st.title("📊 MSE Insights Copilot - Powered by M-Pesa Data")
+st.title("📊 MSE Insights Copilot")
 
 # File uploader
 uploaded_file = st.file_uploader("Upload your M-Pesa CSV file", type="csv")
