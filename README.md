@@ -106,7 +106,6 @@ streamlit run dashboard.py
 
 ## 📦 Final Fabric Artifacts
 Final integrated artifacts including eventhouse, lakehouse, semantic models, and Power BI reports ready for deployment.
-
 ![Final Fabric Deployment Resources](screenshots\Screenshot(493).png)
 
 ---
